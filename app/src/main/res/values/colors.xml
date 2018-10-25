@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBiologia">#90ea77</color>
+    <color name="colorGeografia">#e6d65d</color>
+    <color name="colorHistoria">#cf5551</color>
+    <color name="colorQuimica">#72ede3</color>
+    <color name="colorLiteratura">#c271f1</color>
+    <color name="colorFilosofia">#2a38ca</color>
+    <color name="colorIngles">#e72744</color>
+    <color name="colorEspanhol">#9e6e0e</color>
+    <color name="colorMatematica">#9c93a1</color>
+    <color name="colorFisica">#245423</color>
+    <color name="colorFundo">#10baa7</color>
+    <color name="colorBotao">#849183</color>
+    <color name="colorLetra">#f6f7f6</color>
+
+
+</resources>
